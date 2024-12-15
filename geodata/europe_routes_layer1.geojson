@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Route 1"}, "geometry": {"type": "LineString", "coordinates": [[10.7498, 47.5576], [13.6366, 45.0812], [15.2676, 49.9481]]}}, {"type": "Feature", "properties": {"name": "Route 2"}, "geometry": {"type": "LineString", "coordinates": [[-3.1999, 55.9486], [1.5179, 47.6161], [12.4964, 41.9028]]}}]}
